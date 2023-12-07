@@ -92,9 +92,9 @@ export default function AboutScreen() {
             </Card.Body>
           </Card>
   <Card>
-  <Card.Img variant="top" className= "teamImg" src="./images/davleen.jpeg"   />
+  <Card.Img variant="top" className= "teamImg" src="./images/Esha.jpeg"   />
     <Card.Body className='teamBody'>
-    <Card.Title className='teamName'  >Davleen Kaur</Card.Title>
+    <Card.Title className='teamName'  >Esha Patel</Card.Title>
     </Card.Body>
   </Card>
 </CardGroup>
