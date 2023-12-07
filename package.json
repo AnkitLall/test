@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "proxy": "https://test-backend-gules.vercel.app/",
+  "proxy": "http://127.0.0.1:5001",
   "main": "index.js",
   "version": "0.1.0",
   "private": true,
