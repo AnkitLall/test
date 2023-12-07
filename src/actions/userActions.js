@@ -40,7 +40,7 @@ export const login = (email, password) => async (dispatch) => {
     };
 
     const { data } = await axios.post(
-      "/api/users/login",
+      "https://test-backend-9px7m8pk5-ankitlall.vercel.app/api/users/login",
       { email, password },
       config
     );
